@@ -1,0 +1,24 @@
+CREDITS
+----------------------------
+
+SCALES: A Spyro Palette Tool
+	By Hwd405
+
+Development and Tooling:
+	Hwd405
+
+Experimentation and Debug Skins:
+	Pepper
+	Hwd405
+
+Testing:
+	Pepper
+	Lumilaura
+
+Additional Support:
+	Altro50
+
+----------------------------
+If you'd like to support us further:
+	https://ko-fi.com/hwd405
+	https://ko-fi.com/mrsdrpepper
